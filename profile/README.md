@@ -1,4 +1,4 @@
-![ColossalHQ](https://github.com/colossalhq/.github/blob/main/images/hero.jpg)
+![ColossalHQ](https://github.com/colossalhq/.github/blob/main/images/hero-1.jpg)
 
 # Welcome to Colossal 🚀
 
